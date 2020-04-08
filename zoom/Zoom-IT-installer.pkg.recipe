@@ -182,7 +182,7 @@ exit 0</string>
 					<key>id</key>
 					<string>us.zoom.xos</string>
 					<key>pkgname</key>
-					<string>Zoom</string>
+					<string>%NAME%-%version%</string>
 					<key>pkgroot</key>
 					<string>%RECIPE_CACHE_DIR%/pkgroot</string>
 					<key>pkgtype</key>
