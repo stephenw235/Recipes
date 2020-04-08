@@ -9,7 +9,7 @@
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
-		<string>Utility</string>
+		<string>Applications</string>
 		<key>GROUP_NAME</key>
 		<string>%NAME%-update-smart</string>
 		<key>GROUP_TEMPLATE</key>
@@ -19,7 +19,7 @@
 		<key>OS_REQUIREMENTS</key>
 		<string>10.15.x,10.14.x,10.13.x</string>
 		<key>POLICY_CATEGORY</key>
-		<string>Testing</string>
+		<string>AutoPkgr Apps</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
