@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Zoom for IT Admins package.  For customizing the package (i.e. SSO, etc).</string>
 	<key>Identifier</key>
-	<string>com.meissa.download.Zoom-IT-Installer</string>
+	<string>com.meissa.download.ZoomITInstaller</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
