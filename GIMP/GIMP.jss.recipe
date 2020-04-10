@@ -22,7 +22,6 @@
 		<string>GIMP is the GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. It works on many operating systems, in many languages.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>gimp.png</string>
-
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
@@ -40,10 +39,6 @@
 					<dict>
 						<key>name</key>
 						<string>%GROUP_NAME%</string>
-						<key>smart</key>
-						<true/>
-						<key>template_path</key>
-						<string>%GROUP_TEMPLATE%</string>
 					</dict>
 				</array>
 				<key>policy_category</key>
