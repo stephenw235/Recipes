@@ -13,7 +13,7 @@
 		<key>skip_scope</key>
 		<true/>
 		<key>NAME</key>
-		<string>1Password</string>
+		<string>Dropbox</string>
 		<key>POLICY_CATEGORY</key>
 		<string>AutoPkgr Apps</string>
 		<key>POLICY_TEMPLATE</key>
