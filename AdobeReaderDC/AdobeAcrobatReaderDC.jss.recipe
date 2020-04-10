@@ -18,8 +18,6 @@
 		<string>AutoPkgr Apps</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
-		<key>POLICY_TRIGGER</key>
-		<string>Install_AcrobatDCUpdate</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
@@ -43,8 +41,6 @@
 				<string>%POLICY_CATEGORY%</string>
 				<key>policy_template</key>
 				<string>%POLICY_TEMPLATE%</string>
-				<key>policy_trigger</key>
-				<string>%POLICY_TRIGGER%</string>
 				<key>prod_name</key>
 				<string>%NAME%</string>
 			</dict>
