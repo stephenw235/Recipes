@@ -10,8 +10,8 @@
 	<dict>
 		<key>CATEGORY</key>
 		<string>AutoPkgr Apps</string>
-    <key>skip_scope</key>
-    <true/>
+    		<key>skip_scope</key>
+    		<true/>
 		<key>NAME</key>
 		<string>Adobe Acrobat Reader DC</string>
 		<key>POLICY_CATEGORY</key>
