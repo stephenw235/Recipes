@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest Adobe Reader DC.</string>
 	<key>Identifier</key>
-	<string>com.meissa.download.AdobeReaderDC</string>
+	<string>com.meissa.download.AdobeAcrobatReaderDC</string>
 	<key>Input</key>
 	<dict>
         <key>LANGUAGE</key>
