@@ -19,7 +19,7 @@
             <key>POLICY_TEMPLATE</key>
             <string>%RECIPE_DIR%/PolicyTemplate.xml</string>
             <key>ICON</key>
-            <string>%RECIPE_DIR%/MicrosoftOffice365BusinessProSuite.png</string>
+            <string>%RECIPE_DIR%/MicrosoftOffice365Suite.png</string>
             <key>DESCRIPTION</key>
             <string>Microsoft Office 365 is a software suite for word processing, spreadsheets, presentations, graphics and more.</string>
         </dict>
