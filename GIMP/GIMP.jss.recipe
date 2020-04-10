@@ -11,7 +11,7 @@
 		<key>CATEGORY</key>
 		<string>AutoPkgr Apps</string>
 		<key>skip_scope</key>
-    <true/>
+		<true/>
 		<key>NAME</key>
 		<string>GIMP</string>
 		<key>POLICY_CATEGORY</key>
