@@ -18,6 +18,10 @@
 		<string>AutoPkgr Apps</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
+		<key>SELF_SERVICE_DESCRIPTION</key>
+		<string>Dropbox for file sharing and collaboration.</string>
+		<key>SELF_SERVICE_ICON</key>
+		<string>Dropbox.png</string>
 		<key>Comment</key>
 		<string>Dropbox</string>
 		<key>version</key>
@@ -47,6 +51,10 @@
 				<string>%POLICY_TEMPLATE%</string>
 				<key>prod_name</key>
 				<string>%NAME%</string>
+				<key>self_service_description</key>
+				<string>%SELF_SERVICE_DESCRIPTION%</string>
+				<key>self_service_icon</key>
+				<string>%SELF_SERVICE_ICON%</string>
 			</dict>
 			<key>Processor</key>
 			<string>JSSImporter</string>
