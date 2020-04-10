@@ -21,7 +21,7 @@
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>A hackable text editor for the 21st Century.</string>
 		<key>SELF_SERVICE_ICON</key>
-		<string>atom.png</string>
+		<string>Atom.png</string>
 		<key>Comment</key>
 		<string>Note: PlistReader without variable injection in AutoPkg requires setting "version" input key to an empty string, as below.</string>
 		<key>version</key>
