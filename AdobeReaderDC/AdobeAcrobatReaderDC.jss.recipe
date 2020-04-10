@@ -5,11 +5,11 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Adobe Acrobat Reader DC and makes a pkg of it then uploads it to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.AdobeReaderDC</string>
+	<string>com.meissa.jss.AdobeReaderDC</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
-		<string>Digital Media</string>
+		<string>AutoPkgr Apps</string>
 		<key>skip_scope</key>
 		<true/>
 		<key>NAME</key>
@@ -17,7 +17,7 @@
 		<key>OS_REQUIREMENTS</key>
 		<string>10.15.x,10.14.x,10.13.x,10.12.x</string>
 		<key>POLICY_CATEGORY</key>
-		<string>Testing</string>
+		<string>AutoPkgr Apps</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 	</dict>
