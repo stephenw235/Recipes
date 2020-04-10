@@ -9,7 +9,7 @@
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
-		<string>Applications</string>
+		<string>AutoPkgr Apps</string>
 		<key>skip_scope</key>
 		<true/>
 		<key>NAME</key>
