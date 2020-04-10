@@ -10,20 +10,14 @@
 	<dict>
 		<key>CATEGORY</key>
 		<string>Computer Science</string>
-		<key>GROUP_NAME</key>
-		<string>[*] 1 Prod</string>
-		<key>GROUP_TEMPLATE</key>
-		<string>ProdGroupTemplate.xml</string>
+		<key>skip_scope</key>
+		<true/>
 		<key>NAME</key>
 		<string>Atom</string>
 		<key>POLICY_CATEGORY</key>
-		<string>Testing</string>
+		<string>AutoPkgr Apps</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
-		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string>A hackable text editor for the 21st Century.</string>
-		<key>SELF_SERVICE_ICON</key>
-		<string>Atom.png</string>
 		<key>Comment</key>
 		<string>Note: PlistReader without variable injection in AutoPkg requires setting "version" input key to an empty string, as below.</string>
 		<key>version</key>
@@ -32,7 +26,7 @@
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
-	<string>io.github.hjuutilainen.pkg.Atom</string>
+	<string>com.meissa.pkg.Atom</string>
 	<key>Process</key>
 	<array>
 		<dict>
@@ -53,10 +47,6 @@
 				<string>%POLICY_TEMPLATE%</string>
 				<key>prod_name</key>
 				<string>%NAME%</string>
-				<key>self_service_description</key>
-				<string>%SELF_SERVICE_DESCRIPTION%</string>
-				<key>self_service_icon</key>
-				<string>%SELF_SERVICE_ICON%</string>
 			</dict>
 			<key>Processor</key>
 			<string>JSSImporter</string>
