@@ -16,8 +16,8 @@ combination is offered.</string>
 	<dict>
 		<key>CATEGORY</key>
 		<string>AutoPkgr Apps</string>
-    <key>skip_scope</key>
-    <true/>
+    		<key>skip_scope</key>
+    		<true/>
 		<key>NAME</key>
 		<string>Firefox</string>
 		<key>OS_REQUIREMENTS</key>
@@ -29,7 +29,7 @@ combination is offered.</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Mozilla Firefox is a free and open source web browser.</string>
 		<key>SELF_SERVICE_ICON</key>
-		<string>Firefox.png</string>
+		<string>firefox.png</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
