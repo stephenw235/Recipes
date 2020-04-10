@@ -6,7 +6,7 @@
     <string>Downloads the current Adobe Acrobat Reader DC pkg and repackages, replacing a problematic preinstall script,
 and enabling installation on non-boot volumes.</string>
     <key>Identifier</key>
-    <string>com.meissa.pkg.AdobeReaderDC</string>
+    <string>com.meissa.pkg.AdobeAcrobatReaderDC</string>
     <key>Input</key>
     <dict>
         <key>LANGUAGE</key>
@@ -19,7 +19,7 @@ and enabling installation on non-boot volumes.</string>
     <key>MinimumVersion</key>
     <string>0.4.0</string>
     <key>ParentRecipe</key>
-    <string>com.meissa.download.AdobeReaderDC</string>
+    <string>com.meissa.download.AdobeAcrobatReaderDC</string>
     <key>Process</key>
     <array>
         <dict>
