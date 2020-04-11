@@ -5,11 +5,11 @@
         <key>Description</key>
         <string>Uses parent download recipe to download the latest unlicensed Microsoft Office 365 Business Pro Suite installer package and import it into the JSS.</string>
         <key>Identifier</key>
-        <string>com.meissa.jss.MicrosoftOffice365BusinessProSuite</string>
+        <string>com.meissa.jss.MicrosoftOffice365Suite</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>
-            <string>Microsoft Office 365 Business Pro Suite</string>
+            <string>Microsoft Office 365 Suite</string>
             <key>skip_scope</key>
             <true/>
             <key>CATEGORY</key>
