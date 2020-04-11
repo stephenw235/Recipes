@@ -5,13 +5,13 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Github Desktop and builds a pkg. Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.GitHubDesktop</string>
+	<string>com.meissa.jss.GitHubDesktop</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
 		<string>AutoPkgr Apps</string>
-    <key>skip_scope</key>
-    <true/>
+   		<key>skip_scope</key>
+    		<true/>
 		<key>NAME</key>
 		<string>GitHub Desktop</string>
 		<key>OS_REQUIREMENTS</key>
@@ -28,7 +28,7 @@
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.homebysix.pkg.GitHubDesktop</string>
+	<string>com.meissa.pkg.GitHubDesktop</string>
 	<key>Process</key>
 	<array>
 		<dict>
