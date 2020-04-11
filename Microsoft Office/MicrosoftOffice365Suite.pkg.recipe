@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Uses parent download recipe to download the latest unlicensed Microsoft Office 365 Business Pro Suite installer package.</string>
+	<string>Uses parent download recipe to download the latest unlicensed Microsoft Office 365 Suite installer package.</string>
 	<key>Identifier</key>
-	<string>com.meissa.pkg.MicrosoftOffice365BusinessProSuite</string>
+	<string>com.meissa.pkg.MicrosoftOffice365Suite</string>
 	<key>Input</key>
 	<dict>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.meissa.download.MicrosoftOffice365BusinessProSuite</string>
+	<string>com.github.rtrouton.download.MicrosoftOffice365Suite</string>
 	<key>Process</key>
 	<array>
         <dict>
