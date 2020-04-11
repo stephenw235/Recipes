@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads latest Google Chrome enterprise package.</string>
     <key>Identifier</key>
-    <string>com.github.autopkg.download.googlechromepkg</string>
+    <string>com.meissa.download.googlechromepkg</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
