@@ -5,13 +5,13 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Evernote and makes a pkg of it then uploads it to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.Evernote</string>
+	<string>com.meissa.jss.Evernote</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
 		<string>AutoPkgr Apps</string>
-    <key>skip_scope</key>
-    <true/>
+    		<key>skip_scope</key>
+    		<true/>
 		<key>NAME</key>
 		<string>Evernote</string>
 		<key>POLICY_CATEGORY</key>
