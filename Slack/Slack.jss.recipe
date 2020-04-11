@@ -9,13 +9,13 @@
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
-		<string>AutoPkg Apps</string>
+		<string>AutoPkgr Apps</string>
     		<key>skip_scope</key>
    		<true/>
 		<key>NAME</key>
 		<string>Slack</string>
 		<key>POLICY_CATEGORY</key>
-		<string>AutoPkg Apps</string>
+		<string>AutoPkgr Apps</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
