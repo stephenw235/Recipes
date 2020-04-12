@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Download the latest version of the BlueJeans desktop app.</string>
     <key>Identifier</key>
-    <string>com.github.moofit-recipes.download.bluejeans</string>
+    <string>com.meissa.download.bluejeans</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
