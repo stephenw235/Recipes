@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
-	<string>com.meissa.pkg.BlueJeans</string>
+	<string>com.meissa.pkg.BlueJeansSS</string>
 	<key>Process</key>
 	<array>
 		<dict>
