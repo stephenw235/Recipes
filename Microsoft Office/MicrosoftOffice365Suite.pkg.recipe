@@ -12,7 +12,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.rtrouton.download.MicrosoftOffice365Suite</string>
+	<string>com.meissa.download.MicrosoftOffice365Suite</string>
 	<key>Process</key>
 	<array>
         <dict>
