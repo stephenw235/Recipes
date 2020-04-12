@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of RingCentral Meetings and builds a package.</string>
 	<key>Identifier</key>
-	<string>com.meissa.pkg.RingCentralMeetings</string>
+	<string>com.meissa.pkg.RingCentralMeetingsSS</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
@@ -104,7 +104,7 @@
 					<key>options</key>
 					<string>purge_ds_store</string>
 					<key>pkgname</key>
-					<string>%NAME%-%version%</string>
+					<string>%NAME%SS-%version%</string>
 					<key>scripts</key>
 					<string>Scripts</string>
 					<key>version</key>
