@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of BlueJeans and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.meissa.pkg.BlueJeans</string>
+	<string>com.meissa.pkg.BlueJeansSS</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
