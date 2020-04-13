@@ -21,7 +21,7 @@
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>RingCentral Meetings for collaboration.</string>
 		<key>SELF_SERVICE_ICON</key>
-		<string>RingCentral Meetings.png</string>
+		<string>RingCentral Meeting.png</string>
 		<key>Comment</key>
 		<string>RingCentral Meetings</string>
 		<key>version</key>
