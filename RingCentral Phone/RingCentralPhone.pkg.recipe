@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of RingCentral Phone for Mac and builds a package.</string>
 	<key>Identifier</key>
-	<string>com.meissa.mikestechshop.pkg.ringcentralphone</string>
+	<string>com.meissa.pkg.ringcentralphone</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
